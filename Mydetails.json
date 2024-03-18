@@ -1,0 +1,27 @@
+[
+	{
+		"id":"shreesant",
+		"age":12,
+		"hobby":"coding"
+	},
+	{
+		"id":"shreesant",
+		"age":13,
+		"hobby":"programming"
+	},
+	{
+		"id":"tushant",
+		"age":14,
+		"hobby":"gyming"
+	},
+	{
+		"id":"sunita",
+		"age":15,
+		"hobby":"makeup"
+	},
+	{
+		"id":"keshab",
+		"age":16,
+		"hobby":"eating"
+	}
+]

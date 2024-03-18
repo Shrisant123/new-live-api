@@ -1,0 +1,160 @@
+{
+"childLaptops":{
+		"id":"LaptopCategories",
+		"LaptopProducts":{
+			"DellProducts":{
+			"Dell1":{
+				"name":"Dell vostro 3510 i3 11th Gen",
+				"Ram":"4GB",
+				"HDD":"1tb",
+				"Display":15.6,
+				"Price":"NPR 48000",
+				"image":"https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Fdell-vostro-3510-i3-price-nepal%2Fthumb%2Feca7dbe8-d812-446e-8cd8-ae732c36f21d.jpeg&w=1920&q=75"
+			},
+			"Dell2":{
+				"name":"Dell vostro 15 3520-i3 1215 U",
+				"Ram":"8GB",
+				"SSD":"512GB",
+				"Display":15.6,
+				"Price":"NPR 55000",
+				"image":"https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Fdell-vostro-15-3520-price-nepal-i3%2Fthumb%2Fb0c5eacf-eeeb-404e-9e1b-013bc96dd4ec.webp&w=1920&q=75"
+			},
+			"Dell3":{
+				"name":"Dell inspiron 15 3520 1215 U",
+				"Ram":"8GB",
+				"SSD":"256GB",
+				"Display":15.6,
+				"Price":"NPR 64900",
+				"image":"https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Fdell-inspiron-15-3520-intel-core-i3-laptop-price-nepal%2Fthumb%2Fbb9d368e-bf53-4601-90a7-aa644780716e.png&w=1920&q=75"
+			},
+			"Dell4":{
+				"name":"Dell vostro 15 3520 i5 12th Gen",
+				"Ram":"8GB",
+				"SSD":"256GB",
+				"Display":15.6,
+				"Price":"NPR 67000",
+				"image":"https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Fdell-vostro-3520-price-nepal-i5%2Fthumb%2Fd1bd8b2b-b634-4806-b6e0-cee725480b5c.png&w=1920&q=75"
+			},
+			"Dell5":{
+				"name":"Dell vostro 3510 i5 11th Gen",
+				"Ram":"8GB",
+				"SSD":"256GB",
+				"Display":15.6,
+				"Price":"NPR 70000",
+				"image":"https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Fdell-vostro-3510-i5-price-nepal-ssd%2Fthumb%2F4f75652f-fb7c-4128-b06c-119c2502fc57.png&w=1920&q=75"
+			},
+			"Dell6":{
+				"name":"Dell inspiron 15 3530-i3 1305U",
+				"Ram":"8GB",
+				"SSD":"512GB",
+				"Display":15.6,
+				"Price":"NPR 77000",
+				"image":"https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Fdell-inspiron-15-3530-intel-core-i3-1305-price-nepal%2Fthumb%2Fd9f90eca-9a25-4f8b-923e-3df2b00b55dc.png&w=1920&q=75"
+			}
+		},
+		"HPProducts":{
+			"HP1":{
+				"name":"HP Spectre x360 14",
+				"Description":"Intelligently Designed to adapt to you",
+				"image":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08873649.png?impolicy=Png_Res",
+				"Price":"$1149.99"
+			},
+			"HP2":{
+				"name":"HP Envy x360",
+				"Description":"Create anywhere in laptop or tablet form",
+				"image":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08903140.png?impolicy=Png_Res",
+				"Price":"$609.99"
+			},
+			"HP3":{
+				"name":"HP Envy 16",
+				"Description":"Power your ideas anywhere",
+				"image":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08253835.png?impolicy=Png_Res",
+				"Price":"$1149.99"
+			},
+			"HP4":{
+				"name":"HP Pavilion 14",
+				"Description":"Expressive colors. Impressive Power",
+				"image":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08861546.png?impolicy=Png_Res",
+				"Price":"$579.99"
+			},
+			"HP5":{
+				"name":"HP chromebook Clamshell",
+				"Description":"Secure fast Online Experience",
+				"image":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08770609.png?impolicy=Png_Res",
+				"Price":"$199.99"
+			},
+			"HP6":{
+				"name":"HP DragonFly",
+				"Description":"Freedom to work your way",
+				"image":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08145902.png?impolicy=Png_Res",
+				"Price":"$1249.00"
+			}
+		},
+		"AsusLaptops":{
+		"Asus1":{
+			"name":"Asus ROG Zephyrus G16 core i7",
+			"Ram":"16GB",
+			"image":"https://nagmani.com.np/media/catalog/product/cache/4d3d8afb64eff3580858488581eac2a5/g/u/gu603_4.png",
+			"Price":"NPR 261,111"
+		},
+		"Asus2":{
+			"name":"ASUS Vivobook Flip s14 core i9",
+			"Ram":"16GB",
+			"image":"https://nagmani.com.np/media/catalog/product/cache/4d3d8afb64eff3580858488581eac2a5/t/p/tp-i9-3.png",
+			"Price":"NPR 154,444"
+		},
+		"Asus3":{
+			"name":"Asus TUF Gaming FX506HEB core i7",
+			"Ram":"16GB",
+			"image":"https://nagmani.com.np/media/catalog/product/cache/4d3d8afb64eff3580858488581eac2a5/n/e/new2_2_2.png",
+			"Price":"NPR 159,900"
+		}
+
+		}	
+
+		}
+	},
+
+	"childIpads":{
+		"id":"IpadsCategories",
+		"IpadProducts":{
+			"Ipad1":{
+				"name":"Apple iPad 10.2 (2021, 9th Gen)",
+				"storage":"64/256 GB",
+				"price":"51000/104000",
+				"image":"https://oss.gadgetbytenepal.com/wp-content/uploads/2021/09/iPad-10.2-2021-with-Apple-Pencil.jpg"
+			},
+			"Ipad2":{
+				"name":"Apple iPad 10.9 (2022, 10th Gen)",
+				"storage":" 64/256 GB",
+				"price":"73500/127,500",
+				"image":"https://oss.gadgetbytenepal.com/wp-content/uploads/2022/10/iPad-10th-Gen-Display-and-Design.jpg"
+			},
+			"Ipad3":{
+				"name":"Apple iPad mini 6th Gen ",
+				"storage":" 64/256GB",
+				"price":"85,000/110,000",
+				"image":"https://oss.gadgetbytenepal.com/wp-content/uploads/2021/09/Apple-iPad-Mini-6-2021-Design-and-DIsplay.jpg"
+			},
+			"Ipad4":{
+				"name":"Apple iPad Pro M1 2021 (11″, 12.9″) ",
+				"Software": "iPadOS 14 (upgradeable)",
+				"price":"132,000/325,000",
+				"image":"https://oss.gadgetbytenepal.com/wp-content/uploads/2021/04/iPad-Pro-2021-M1-Chip.jpg"
+			},
+			"Ipad5":{
+				"name":"Apple iPad Pro M2 2022 (11″, 12.9″)",
+				"storage":" 64/256GB",
+				"price":"132,000/260,000",
+				"image":"https://oss.gadgetbytenepal.com/wp-content/uploads/2022/06/Apple-iPad-Pro-M2-2022-Design.jpg"
+			},
+			"Ipad6":{
+				"name":"Apple iPad mini 6th Gen ",
+				"storage":" 64/256GB",
+				"price":"85,000/110,000",
+				"image":"https://oss.gadgetbytenepal.com/wp-content/uploads/2021/09/Apple-iPad-Mini-6-2021-Design-and-DIsplay.jpg"
+			},
+		},
+	}
+
+}
